@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1068" viewBox="0 0 560 1068" role="img" aria-labelledby="title desc">
+<title id="title">05-positioning mission and steps</title>
+<desc id="desc">Connect inner meaning with credible audience value. Steps: 1. Bring the evidence together: Inner idea and audience evidence, Audience and context; 2. Explore value and alternatives: Value and relevance, Alternatives and differentiation; 3. Form credible hypotheses: Capabilities and reasons to believe, Positioning hypotheses; 4. Choose and plan tests: Trade-offs and selection reasoning, Assumptions to test. Next: outward expression. Return to audience or capability evidence when needed.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#52718c"/></marker></defs>
+<rect width="560" height="1068" rx="16" fill="#ffffff"/>
+<rect x="42" y="32" width="476" height="118" rx="12" fill="#173552" stroke="#173552"/>
+<text x="280" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c5dfef">MISSION</text>
+<text x="280" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">Connect inner meaning with credible</text>
+<text x="280" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">audience value.</text>
+<path d="M280,152 V182" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="190" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">1. Bring the evidence together</text>
+<text x="280" y="259" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Inner idea and audience evidence</text>
+<text x="280" y="284" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Audience and context</text>
+<path d="M280,329 V359" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="367" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">2. Explore value and alternatives</text>
+<text x="280" y="436" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Value and relevance</text>
+<text x="280" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Alternatives and differentiation</text>
+<path d="M280,506 V536" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="544" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="576" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">3. Form credible hypotheses</text>
+<text x="280" y="613" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Capabilities and reasons to believe</text>
+<text x="280" y="638" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Positioning hypotheses</text>
+<path d="M280,683 V713" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="721" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">4. Choose and plan tests</text>
+<text x="280" y="790" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Trade-offs and selection reasoning</text>
+<text x="280" y="815" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Assumptions to test</text>
+<path d="M280,860 V890" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="898" width="476" height="74" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="280" y="929" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#173552">Next: outward expression</text>
+<text x="280" y="1000" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">Return to audience or capability evidence when</text>
+<text x="280" y="1023" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">needed.</text>
+<path d="M528,1043 H544 V192 H524" fill="none" stroke="#8198aa" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+</svg>

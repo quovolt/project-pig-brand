@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1094" viewBox="0 0 560 1094" role="img" aria-labelledby="title desc">
+<title id="title">04-audience mission and steps</title>
+<desc id="desc">Understand audience needs, context and language. Steps: 1. Frame the research: Research questions and assumptions, Audience and situations; 2. Explore the audience world: Needs, concerns and alternatives, Audience language; 3. Weigh the research: Research sources and observations, Findings and limitations; 4. Connect and investigate further: Connections to the inner idea, Open questions and further research. Next: positioning, alongside the inner idea. Run in parallel with internal meaning; revisit assumptions.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#52718c"/></marker></defs>
+<rect width="560" height="1094" rx="16" fill="#ffffff"/>
+<rect x="42" y="32" width="476" height="118" rx="12" fill="#173552" stroke="#173552"/>
+<text x="280" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c5dfef">MISSION</text>
+<text x="280" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">Understand audience needs, context</text>
+<text x="280" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">and language.</text>
+<path d="M280,152 V182" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="190" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">1. Frame the research</text>
+<text x="280" y="259" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Research questions and assumptions</text>
+<text x="280" y="284" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Audience and situations</text>
+<path d="M280,329 V359" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="367" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">2. Explore the audience world</text>
+<text x="280" y="436" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Needs, concerns and alternatives</text>
+<text x="280" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Audience language</text>
+<path d="M280,506 V536" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="544" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="576" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">3. Weigh the research</text>
+<text x="280" y="613" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Research sources and observations</text>
+<text x="280" y="638" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Findings and limitations</text>
+<path d="M280,683 V713" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="721" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">4. Connect and investigate further</text>
+<text x="280" y="790" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Connections to the inner idea</text>
+<text x="280" y="815" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Open questions and further research</text>
+<path d="M280,860 V890" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="898" width="476" height="100" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="280" y="929" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#173552">Next: positioning, alongside the</text>
+<text x="280" y="955" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#173552">inner idea</text>
+<text x="280" y="1026" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">Run in parallel with internal meaning; revisit</text>
+<text x="280" y="1049" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">assumptions.</text>
+<path d="M528,1069 H544 V192 H524" fill="none" stroke="#8198aa" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+</svg>

@@ -1,5 +1,7 @@
 # 7. Apply, test and refine
 
+[![Mission: Learn from real use and decide what to revise. Steps: Prepare applications and tests → Check meaning, credibility and use → Interpret feedback and decide → Record versions and open questions. Feedback can change expression, meaning or positioning.](./07-testing-flowchart.svg)](./07-testing-flowchart.svg)
+
 ## Candidate directions and versions
 
 ## Real contexts and touchpoints

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1068" viewBox="0 0 560 1068" role="img" aria-labelledby="title desc">
+<title id="title">06-expression mission and steps</title>
+<desc id="desc">Turn the chosen meaning into outward language. Steps: 1. Set the expression context: Inner idea and positioning, Audience language and expression context; 2. Explore language and directions: Transformation approaches, Candidate words and messages, Alternative directions; 3. Trace and compare the choices: Connections to meaning and evidence, Comparison and selection reasoning; 4. Prepare questions for testing: Risks and questions for testing. Next: application and testing. Return to positioning if the promise or meaning changes.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#52718c"/></marker></defs>
+<rect width="560" height="1068" rx="16" fill="#ffffff"/>
+<rect x="42" y="32" width="476" height="118" rx="12" fill="#173552" stroke="#173552"/>
+<text x="280" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c5dfef">MISSION</text>
+<text x="280" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">Turn the chosen meaning into outward</text>
+<text x="280" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">language.</text>
+<path d="M280,152 V182" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="190" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">1. Set the expression context</text>
+<text x="280" y="259" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Inner idea and positioning</text>
+<text x="280" y="284" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Audience language and expression context</text>
+<path d="M280,329 V359" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="367" width="476" height="162" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">2. Explore language and directions</text>
+<text x="280" y="436" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Transformation approaches</text>
+<text x="280" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Candidate words and messages</text>
+<text x="280" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Alternative directions</text>
+<path d="M280,531 V561" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="569" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="601" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">3. Trace and compare the choices</text>
+<text x="280" y="638" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Connections to meaning and evidence</text>
+<text x="280" y="663" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Comparison and selection reasoning</text>
+<path d="M280,708 V738" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="746" width="476" height="112" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
+<text x="280" y="778" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">4. Prepare questions for testing</text>
+<text x="280" y="815" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Risks and questions for testing</text>
+<path d="M280,860 V890" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="898" width="476" height="74" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="280" y="929" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#173552">Next: application and testing</text>
+<text x="280" y="1000" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">Return to positioning if the promise or meaning</text>
+<text x="280" y="1023" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">changes.</text>
+<path d="M528,1043 H544 V192 H524" fill="none" stroke="#8198aa" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+</svg>
