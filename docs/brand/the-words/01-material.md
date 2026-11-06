@@ -1,10 +1,10 @@
 # 1. Prepare group material
 
 <div tabindex="0" role="region" aria-label="Scrollable left-to-right workflow: 1. Prepare group material" style="overflow-x: auto; max-width: 100%; border-radius: 12px;">
-  <a href="./01-material-flowchart.svg" aria-label="Open the full-size workflow">
-    <img src="./01-material-flowchart.svg" alt="Mission: Gather concrete material for abstraction. Read left to right: Frame the collection → Gather experiences and ambitions → Check the evidence → Select the material. Return when evidence is missing or unclear." width="1376" height="538" style="max-width: none;" />
-  </a>
+  <img src="./01-material-flowchart.svg" alt="Mission: Gather concrete material for abstraction. Read left to right: Frame the collection → Gather experiences and ambitions → Check the evidence → Select the material. Return when evidence is missing or unclear." width="1376" height="594" style="max-width: none;" />
 </div>
+
+[Open the full-size flowchart](./01-material-flowchart.svg)
 
 ## Purpose and scope
 

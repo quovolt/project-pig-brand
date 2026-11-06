@@ -1,51 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="514" viewBox="0 0 1376 514" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="570" viewBox="0 0 1376 570" role="img" aria-labelledby="title desc">
 <title id="title">7. Apply, test and refine — mission and sequence</title>
 <desc id="desc">Learn from real use and decide what to revise. Read left to right: 1. Prepare applications and tests: Candidate directions and versions, Real contexts and touchpoints, Test questions and methods; 2. Check meaning, credibility and use: Internal authenticity, Credibility in practice, Audience understanding and relevance, Application results; 3. Interpret feedback and decide: Feedback and interpretation, Decisions and revision paths; 4. Record versions and open questions: Version history and unresolved questions. Next: revise the relevant earlier step. Feedback can change expression, meaning or positioning.</desc>
 <defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L0,8 L8,4 z" fill="#173552"/></marker></defs>
-<rect width="1376" height="514" rx="16" fill="#ffffff"/>
+<rect width="1376" height="570" rx="16" fill="#ffffff"/>
 <rect x="24" y="24" width="1328" height="108" rx="12" fill="#173552" stroke="#173552"/>
 <text x="688.0" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#bfe0f0">MISSION</text>
 <text x="688.0" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="normal" fill="white">Learn from real use and decide what to revise.</text>
-<rect x="24" y="164" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
-<text x="144.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 01</text>
-<text x="144.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Prepare applications</text>
-<text x="144.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">and tests</text>
-<text x="144.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Candidate directions and</text>
-<text x="144.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">versions</text>
-<text x="144.0" y="343" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Real contexts and</text>
-<text x="144.0" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">touchpoints</text>
-<text x="144.0" y="391" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Test questions and methods</text>
-<path d="M268,299.0 H290" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="296" y="164" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
-<text x="416.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 02</text>
-<text x="416.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Check meaning,</text>
-<text x="416.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">credibility and use</text>
-<text x="416.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Internal authenticity</text>
-<text x="416.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Credibility in practice</text>
-<text x="416.0" y="343" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Audience understanding and</text>
-<text x="416.0" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">relevance</text>
-<text x="416.0" y="391" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Application results</text>
-<path d="M540,299.0 H562" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="568" y="164" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
-<text x="688.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 03</text>
-<text x="688.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Interpret feedback and</text>
-<text x="688.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">decide</text>
-<text x="688.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Feedback and</text>
-<text x="688.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">interpretation</text>
-<text x="688.0" y="343" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Decisions and revision</text>
-<text x="688.0" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">paths</text>
-<path d="M812,299.0 H834" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="840" y="164" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
-<text x="960.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 04</text>
-<text x="960.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Record versions and</text>
-<text x="960.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">open questions</text>
-<text x="960.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Version history and</text>
-<text x="960.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">unresolved questions</text>
-<path d="M1084,299.0 H1106" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="1112" y="164" width="240" height="270" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
-<text x="1232.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2b624c">NEXT</text>
-<text x="1232.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">revise the relevant</text>
-<text x="1232.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">earlier step</text>
-<path d="M1338,441 V490 H38 V441" fill="none" stroke="#7892a6" stroke-width="1.5" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
-<text x="688.0" y="474" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#486277">REVIEW AND RETURN · Feedback can change expression, meaning or positioning.</text>
+<rect x="12" y="156" width="536" height="350" rx="16" fill="#f8fafc" stroke="#7f9bb1" stroke-width="1.5" stroke-dasharray="7 4"/>
+<text x="280" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#42617a">PHASE A · Prepare and check</text>
+<rect x="556" y="156" width="536" height="350" rx="16" fill="#f8fafc" stroke="#7f9bb1" stroke-width="1.5" stroke-dasharray="7 4"/>
+<text x="824" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#42617a">PHASE B · Learn and revise</text>
+<rect x="24" y="220" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="144.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 01</text>
+<text x="144.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Prepare applications</text>
+<text x="144.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">and tests</text>
+<text x="144.0" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Candidate directions and</text>
+<text x="144.0" y="375" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">versions</text>
+<text x="144.0" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Real contexts and</text>
+<text x="144.0" y="423" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">touchpoints</text>
+<text x="144.0" y="447" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Test questions and methods</text>
+<path d="M268,355.0 H290" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="296" y="220" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="416.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 02</text>
+<text x="416.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Check meaning,</text>
+<text x="416.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">credibility and use</text>
+<text x="416.0" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Internal authenticity</text>
+<text x="416.0" y="375" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Credibility in practice</text>
+<text x="416.0" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Audience understanding and</text>
+<text x="416.0" y="423" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">relevance</text>
+<text x="416.0" y="447" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Application results</text>
+<path d="M540,355.0 H562" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="568" y="220" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="688.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 03</text>
+<text x="688.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Interpret feedback and</text>
+<text x="688.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">decide</text>
+<text x="688.0" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Feedback and</text>
+<text x="688.0" y="375" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">interpretation</text>
+<text x="688.0" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Decisions and revision</text>
+<text x="688.0" y="423" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">paths</text>
+<path d="M812,355.0 H834" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="840" y="220" width="240" height="270" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="960.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 04</text>
+<text x="960.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Record versions and</text>
+<text x="960.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">open questions</text>
+<text x="960.0" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Version history and</text>
+<text x="960.0" y="375" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">unresolved questions</text>
+<path d="M1084,355.0 H1106" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1112" y="220" width="240" height="270" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="1232.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2b624c">NEXT</text>
+<text x="1232.0" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">revise the relevant</text>
+<text x="1232.0" y="339" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">earlier step</text>
+<path d="M1338,497 V546 H38 V497" fill="none" stroke="#7892a6" stroke-width="1.5" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="688.0" y="530" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#486277">REVIEW AND RETURN · Feedback can change expression, meaning or positioning.</text>
 </svg>
