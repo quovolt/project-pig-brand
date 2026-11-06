@@ -1,6 +1,10 @@
 # 5. Define positioning
 
-[![Mission: Connect inner meaning with credible audience value. Steps: Bring the evidence together → Explore value and alternatives → Form credible hypotheses → Choose and plan tests. Return to audience or capability evidence when needed.](./05-positioning-flowchart.svg)](./05-positioning-flowchart.svg)
+<div tabindex="0" role="region" aria-label="Scrollable left-to-right workflow: 5. Define positioning" style="overflow-x: auto; max-width: 100%; border-radius: 12px;">
+  <a href="./05-positioning-flowchart.svg" aria-label="Open the full-size workflow">
+    <img src="./05-positioning-flowchart.svg" alt="Mission: Connect inner meaning with credible audience value. Read left to right: Bring the evidence together → Explore value and alternatives → Form credible hypotheses → Choose and plan tests. Return to audience or capability evidence when needed." width="1376" height="466" style="max-width: none;" />
+  </a>
+</div>
 
 ## Inner idea and audience evidence
 

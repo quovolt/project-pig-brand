@@ -1,6 +1,10 @@
 # 2. Abstract the material
 
-[![Mission: Derive candidate meanings from concrete material. Steps: Observe the material → Explore possible meanings → Compare themes and alternatives → Choose and question. Return to material when an interpretation lacks support.](./02-abstraction-flowchart.svg)](./02-abstraction-flowchart.svg)
+<div tabindex="0" role="region" aria-label="Scrollable left-to-right workflow: 2. Abstract the material" style="overflow-x: auto; max-width: 100%; border-radius: 12px;">
+  <a href="./02-abstraction-flowchart.svg" aria-label="Open the full-size workflow">
+    <img src="./02-abstraction-flowchart.svg" alt="Mission: Derive candidate meanings from concrete material. Read left to right: Observe the material → Explore possible meanings → Compare themes and alternatives → Choose and question. Return to material when an interpretation lacks support." width="1376" height="490" style="max-width: none;" />
+  </a>
+</div>
 
 ## Source material
 

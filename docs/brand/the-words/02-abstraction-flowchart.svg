@@ -1,37 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="1093" viewBox="0 0 560 1093" role="img" aria-labelledby="title desc">
-<title id="title">02-abstraction mission and steps</title>
-<desc id="desc">Derive candidate meanings from concrete material. Steps: 1. Observe the material: Source material, Observations; 2. Explore possible meanings: Possible interpretations, Comparison and grouping; 3. Compare themes and alternatives: Candidate themes and words, Alternative interpretations and counterexamples; 4. Choose and question: Selection and reasoning, Questions for further evidence. Next: inner idea. Return to material when an interpretation lacks support.</desc>
-<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#52718c"/></marker></defs>
-<rect width="560" height="1093" rx="16" fill="#ffffff"/>
-<rect x="42" y="32" width="476" height="118" rx="12" fill="#173552" stroke="#173552"/>
-<text x="280" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c5dfef">MISSION</text>
-<text x="280" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">Derive candidate meanings from</text>
-<text x="280" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" fill="white">concrete material.</text>
-<path d="M280,152 V182" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="42" y="190" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
-<text x="280" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">1. Observe the material</text>
-<text x="280" y="259" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Source material</text>
-<text x="280" y="284" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Observations</text>
-<path d="M280,329 V359" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="42" y="367" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
-<text x="280" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">2. Explore possible meanings</text>
-<text x="280" y="436" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Possible interpretations</text>
-<text x="280" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Comparison and grouping</text>
-<path d="M280,506 V536" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="42" y="544" width="476" height="162" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
-<text x="280" y="576" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">3. Compare themes and alternatives</text>
-<text x="280" y="613" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Candidate themes and words</text>
-<text x="280" y="638" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Alternative interpretations and</text>
-<text x="280" y="663" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">counterexamples</text>
-<path d="M280,708 V738" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="42" y="746" width="476" height="137" rx="12" fill="#edf4fa" stroke="#bacbdc"/>
-<text x="280" y="778" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">4. Choose and question</text>
-<text x="280" y="815" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Selection and reasoning</text>
-<text x="280" y="840" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" fill="#173552">Questions for further evidence</text>
-<path d="M280,885 V915" fill="none" stroke="#52718c" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="42" y="923" width="476" height="74" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
-<text x="280" y="954" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#173552">Next: inner idea</text>
-<text x="280" y="1025" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">Return to material when an interpretation lacks</text>
-<text x="280" y="1048" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#486277">support.</text>
-<path d="M528,1068 H544 V192 H524" fill="none" stroke="#8198aa" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="490" viewBox="0 0 1376 490" role="img" aria-labelledby="title desc">
+<title id="title">2. Abstract the material — mission and sequence</title>
+<desc id="desc">Derive candidate meanings from concrete material. Read left to right: 1. Observe the material: Source material, Observations; 2. Explore possible meanings: Possible interpretations, Comparison and grouping; 3. Compare themes and alternatives: Candidate themes and words, Alternative interpretations and counterexamples; 4. Choose and question: Selection and reasoning, Questions for further evidence. Next: inner idea. Return to material when an interpretation lacks support.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L0,8 L8,4 z" fill="#173552"/></marker></defs>
+<rect width="1376" height="490" rx="16" fill="#ffffff"/>
+<rect x="24" y="24" width="1328" height="108" rx="12" fill="#173552" stroke="#173552"/>
+<text x="688.0" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#bfe0f0">MISSION</text>
+<text x="688.0" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="normal" fill="white">Derive candidate meanings from concrete material.</text>
+<rect x="24" y="164" width="240" height="246" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="144.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 01</text>
+<text x="144.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Observe the material</text>
+<text x="144.0" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Source material</text>
+<text x="144.0" y="294" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Observations</text>
+<path d="M268,287.0 H290" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="296" y="164" width="240" height="246" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="416.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 02</text>
+<text x="416.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Explore possible</text>
+<text x="416.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">meanings</text>
+<text x="416.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Possible interpretations</text>
+<text x="416.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Comparison and grouping</text>
+<path d="M540,287.0 H562" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="568" y="164" width="240" height="246" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="688.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 03</text>
+<text x="688.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Compare themes and</text>
+<text x="688.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">alternatives</text>
+<text x="688.0" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Candidate themes and words</text>
+<text x="688.0" y="319" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Alternative</text>
+<text x="688.0" y="343" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">interpretations and</text>
+<text x="688.0" y="367" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">counterexamples</text>
+<path d="M812,287.0 H834" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="840" y="164" width="240" height="246" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="960.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 04</text>
+<text x="960.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Choose and question</text>
+<text x="960.0" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Selection and reasoning</text>
+<text x="960.0" y="294" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Questions for further</text>
+<text x="960.0" y="318" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">evidence</text>
+<path d="M1084,287.0 H1106" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1112" y="164" width="240" height="246" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="1232.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2b624c">NEXT</text>
+<text x="1232.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">inner idea</text>
+<path d="M1338,417 V466 H38 V417" fill="none" stroke="#7892a6" stroke-width="1.5" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="688.0" y="450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#486277">REVIEW AND RETURN · Return to material when an interpretation lacks support.</text>
 </svg>
