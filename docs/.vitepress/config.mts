@@ -42,9 +42,7 @@ export default defineConfig({
       },
       {
         text: 'The Words',
-        items: [
-          { text: 'README · Our workflow', link: '/brand/the-words/README' },
-        ],
+        items: [{ text: 'Our workflow', link: '/brand/the-words/README' }],
       },
       {
         text: 'Resources',
