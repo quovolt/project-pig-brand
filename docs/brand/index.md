@@ -16,6 +16,8 @@ As decisions are approved, document:
 
 ## Related guidance
 
+- [The Words: our workflow](./the-words/README)
+
 - [Visual identity](./visual-identity)
 - [Voice and writing](./voice-and-writing)
 - [Asset library](../assets/)
