@@ -4,7 +4,7 @@
   <img src="./03-inner-idea-flowchart.svg" alt="Mission: Choose an inner idea and supporting words. Read left to right: Compare candidate meanings → Express the inner idea → Explain the choice → Review and revise. Return to abstraction when the meaning needs revision." width="1376" height="546" style="max-width: none;" />
 </div>
 
-[Open the full-size flowchart](./03-inner-idea-flowchart.svg)
+<a :href="flowchartUrl">Open the full-size flowchart</a>
 
 ## Candidate themes
 
@@ -21,3 +21,7 @@
 ## Alternatives and trade-offs
 
 ## Review and revision
+
+<script setup>
+import flowchartUrl from './03-inner-idea-flowchart.svg?url'
+</script>

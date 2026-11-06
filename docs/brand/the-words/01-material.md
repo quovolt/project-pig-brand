@@ -4,7 +4,7 @@
   <img src="./01-material-flowchart.svg" alt="Mission: Gather concrete material for abstraction. Read left to right: Frame the collection → Gather experiences and ambitions → Check the evidence → Select the material. Return when evidence is missing or unclear." width="1376" height="594" style="max-width: none;" />
 </div>
 
-[Open the full-size flowchart](./01-material-flowchart.svg)
+<a :href="flowchartUrl">Open the full-size flowchart</a>
 
 ## Purpose and scope
 
@@ -19,3 +19,7 @@
 ## Contradictions and limitations
 
 ## Material selected for abstraction
+
+<script setup>
+import flowchartUrl from './01-material-flowchart.svg?url'
+</script>

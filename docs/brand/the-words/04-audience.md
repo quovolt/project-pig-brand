@@ -4,7 +4,7 @@
   <img src="./04-audience-flowchart.svg" alt="Mission: Understand audience needs, context and language. Read left to right: Frame the research → Explore the audience world → Weigh the research → Connect and investigate further. Run in parallel with internal meaning; revisit assumptions." width="1376" height="546" style="max-width: none;" />
 </div>
 
-[Open the full-size flowchart](./04-audience-flowchart.svg)
+<a :href="flowchartUrl">Open the full-size flowchart</a>
 
 ## Research questions and assumptions
 
@@ -21,3 +21,7 @@
 ## Connections to the inner idea
 
 ## Open questions and further research
+
+<script setup>
+import flowchartUrl from './04-audience-flowchart.svg?url'
+</script>

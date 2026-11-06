@@ -4,7 +4,7 @@
   <img src="./07-testing-flowchart.svg" alt="Mission: Learn from real use and decide what to revise. Read left to right: Prepare applications and tests → Check meaning, credibility and use → Interpret feedback and decide → Record versions and open questions. Feedback can change expression, meaning or positioning." width="1376" height="570" style="max-width: none;" />
 </div>
 
-[Open the full-size flowchart](./07-testing-flowchart.svg)
+<a :href="flowchartUrl">Open the full-size flowchart</a>
 
 ## Candidate directions and versions
 
@@ -25,3 +25,7 @@
 ## Decisions and revision paths
 
 ## Version history and unresolved questions
+
+<script setup>
+import flowchartUrl from './07-testing-flowchart.svg?url'
+</script>
