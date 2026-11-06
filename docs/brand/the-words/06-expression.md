@@ -1,5 +1,11 @@
 # 6. Transform into outward language
 
+<div tabindex="0" role="region" aria-label="Scrollable left-to-right workflow: 6. Transform into outward language" style="overflow-x: auto; max-width: 100%; border-radius: 12px;">
+  <img src="./06-expression-flowchart.svg" alt="Mission: Turn the chosen meaning into outward language. Read left to right: Set the expression context → Explore language and directions → Trace and compare the choices → Prepare questions for testing. Return to positioning if the promise or meaning changes." width="1376" height="546" style="max-width: none;" />
+</div>
+
+<a :href="flowchartUrl">Open the full-size flowchart</a>
+
 ## Inner idea and positioning
 
 ## Audience language and expression context
@@ -15,3 +21,7 @@
 ## Comparison and selection reasoning
 
 ## Risks and questions for testing
+
+<script setup>
+import flowchartUrl from './06-expression-flowchart.svg?url'
+</script>

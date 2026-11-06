@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="594" viewBox="0 0 1376 594" role="img" aria-labelledby="title desc">
+<title id="title">1. Prepare group material — mission and sequence</title>
+<desc id="desc">Gather concrete material for abstraction. Read left to right: 1. Frame the collection: Purpose and scope; 2. Gather experiences and ambitions: Origins and shared experiences, Actions, decisions and trade-offs, Ambitions and open questions; 3. Check the evidence: Sources and evidence, Contradictions and limitations; 4. Select the material: Material selected for abstraction. Next: abstraction. Return when evidence is missing or unclear.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L0,8 L8,4 z" fill="#173552"/></marker></defs>
+<rect width="1376" height="594" rx="16" fill="#ffffff"/>
+<rect x="24" y="24" width="1328" height="108" rx="12" fill="#173552" stroke="#173552"/>
+<text x="688.0" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#bfe0f0">MISSION</text>
+<text x="688.0" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="normal" fill="white">Gather concrete material for abstraction.</text>
+<rect x="12" y="156" width="536" height="374" rx="16" fill="#f8fafc" stroke="#7f9bb1" stroke-width="1.5" stroke-dasharray="7 4"/>
+<text x="280" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#42617a">PHASE A · Collect the material</text>
+<rect x="556" y="156" width="536" height="374" rx="16" fill="#f8fafc" stroke="#7f9bb1" stroke-width="1.5" stroke-dasharray="7 4"/>
+<text x="824" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#42617a">PHASE B · Assess and select</text>
+<rect x="24" y="220" width="240" height="294" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="144.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 01</text>
+<text x="144.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Frame the collection</text>
+<text x="144.0" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Purpose and scope</text>
+<path d="M268,367.0 H290" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="296" y="220" width="240" height="294" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="416.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 02</text>
+<text x="416.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Gather experiences and</text>
+<text x="416.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">ambitions</text>
+<text x="416.0" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Origins and shared</text>
+<text x="416.0" y="375" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">experiences</text>
+<text x="416.0" y="399" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Actions, decisions and</text>
+<text x="416.0" y="423" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">trade-offs</text>
+<text x="416.0" y="447" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Ambitions and open</text>
+<text x="416.0" y="471" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">questions</text>
+<path d="M540,367.0 H562" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="568" y="220" width="240" height="294" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="688.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 03</text>
+<text x="688.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Check the evidence</text>
+<text x="688.0" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Sources and evidence</text>
+<text x="688.0" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Contradictions and</text>
+<text x="688.0" y="374" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">limitations</text>
+<path d="M812,367.0 H834" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="840" y="220" width="240" height="294" rx="12" fill="#edf4fa" stroke="#b7cbdc"/>
+<text x="960.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#4d6d87">STEP 04</text>
+<text x="960.0" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#173552">Select the material</text>
+<text x="960.0" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">Material selected for</text>
+<text x="960.0" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#173552">abstraction</text>
+<path d="M1084,367.0 H1106" fill="none" stroke="#173552" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1112" y="220" width="240" height="294" rx="12" fill="#e8f4ef" stroke="#a7c7b8"/>
+<text x="1232.0" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#2b624c">NEXT</text>
+<text x="1232.0" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#173552">abstraction</text>
+<path d="M1338,521 V570 H38 V521" fill="none" stroke="#7892a6" stroke-width="1.5" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="688.0" y="554" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#486277">REVIEW AND RETURN · Return when evidence is missing or unclear.</text>
+</svg>
