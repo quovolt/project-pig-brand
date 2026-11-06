@@ -41,21 +41,39 @@ docs/
   assets/                Approved asset index placeholder
 ```
 
-Read [the contribution guide](docs/guide/contributing.md) before adding guidance. CI checks pull requests and changes to `main`; it does not publish the site.
+Read [the contribution guide](docs/guide/contributing.md) before adding guidance. CI checks pull requests and changes to `main` at both `/` and `/project-pig-brand/`. The separate Pages workflow stays disabled until publication and access are approved.
 
 ## Dependency maintenance
 
 VitePress is pinned to the stable `1.6.4` release. Its Vite dependency is overridden to `6.4.5` to avoid known vulnerabilities in the default Vite 5 dependency tree. The bundled Vue plugin supports Vite 6. Keep this override covered by `npm run check` and `npm audit`; revisit it when upgrading VitePress.
 
-## Hosting and privacy
+## GitHub Pages and privacy
 
-No deployment, GitHub Pages workflow, or hosting destination is configured. The repository is private; keep any future hosting access controls intentional. A private repository or `noindex` tag is not access control for a deployed website.
+`.github/workflows/pages.yml` builds and deploys the site using GitHub's official Pages actions. It only runs from `main` when the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` is exactly `true`. Until then, even merging this workflow does not publish anything. Pull requests only run the documentation checks.
 
-Build output is in `docs/.vitepress/dist/` and is ignored by Git. For a future subdirectory host, set `DOCS_BASE` for both build and preview:
+A private repository does **not** mean a private Pages site. GitHub Pages from a private organization repository requires GitHub Team or Enterprise Cloud; restricting site access to repository readers requires **Enterprise Cloud**. Public Pages can expose every generated page, asset, and search-index entry. The site's `noindex` tag is not access control.
+
+### Enable deployment after approval
+
+1. Confirm the organization's plan supports Pages for this private repository and approve the site's audience. Do not make the repository public to bypass plan limits.
+2. In repository **Settings → Pages**, select **GitHub Actions** under **Build and deployment → Source**. For a private site, select private visibility and verify it restricts access to repository readers. Public publication requires separate approval of the documentation being exposed.
+3. Review the `github-pages` environment's deployment branch rules and restrict it to `main`. Add approval protection if the organization's plan supports it.
+4. After the workflow is merged into `main` and the access settings are verified, create the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` with value `true` under **Settings → Secrets and variables → Actions → Variables**.
+5. Run **Deploy documentation to GitHub Pages** manually on `main`, or push an approved change to `main`. Check its deployment URL and access behavior before sharing it.
+
+The workflow does not enable Pages, change visibility, or merge a pull request. Clearing `PAGES_DEPLOYMENT_ENABLED` stops future deployments; it does **not** unpublish an existing site. Use **Settings → Pages → Unpublish site** if a published site must be removed.
+
+### Base paths and local preview
+
+The deployment reads the actual base path from `actions/configure-pages`, so it supports the standard project URL (`/project-pig-brand/`), custom domains, and private Pages URLs without hard-coding a public destination. The standard public URL, if explicitly approved and configured, would be `https://quovolt.github.io/project-pig-brand/`; this is a target, not a verified live site.
+
+Build output is in `docs/.vitepress/dist/` and is ignored by Git. To test the standard project path locally:
 
 ```sh
-DOCS_BASE=/brand/ npm run docs:build
-DOCS_BASE=/brand/ npm run docs:preview
+DOCS_BASE=/project-pig-brand/ npm run docs:build
+DOCS_BASE=/project-pig-brand/ npm run docs:preview
 ```
 
-The base must start and end with `/`. See [Getting started](docs/guide/getting-started.md) for details.
+The base must start and end with `/`. Local development defaults to `/`.
+
+References: [GitHub Pages plans and publication](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-publication-of-github-pages-sites-for-your-organization), [private-site access control](https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site), and [custom Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).

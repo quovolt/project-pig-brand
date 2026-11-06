@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-// Keep hosting undecided. Override this only when a destination is approved.
+// Local builds use /. The Pages workflow supplies its configured base path.
 const base = process.env.DOCS_BASE || '/'
 if (!base.startsWith('/') || !base.endsWith('/')) {
   throw new Error(
@@ -15,7 +15,7 @@ export default defineConfig({
   base,
   lastUpdated: true,
   cleanUrls: false,
-  // This private repository has no publishing or deployment configured.
+  // Discourage indexing, but never treat this tag as access control.
   head: [['meta', { name: 'robots', content: 'noindex, nofollow' }]],
   themeConfig: {
     siteTitle: 'Project Pig Brand',

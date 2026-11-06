@@ -15,9 +15,15 @@ concurrency:
 
 jobs:
   check:
-    name: Format, typecheck, and build
+    name: Check documentation (${{ matrix.base }})
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        base: ['/', '/project-pig-brand/']
+    env:
+      DOCS_BASE: ${{ matrix.base }}
     steps:
       - uses: actions/checkout@v4
         with:
