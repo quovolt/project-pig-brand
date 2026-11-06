@@ -44,6 +44,34 @@ export default defineConfig({
         text: 'The Words',
         items: [
           { text: 'README · Our workflow', link: '/brand/the-words/README' },
+          {
+            text: '1. Prepare group material',
+            link: '/brand/the-words/01-material',
+          },
+          {
+            text: '2. Abstract the material',
+            link: '/brand/the-words/02-abstraction',
+          },
+          {
+            text: '3. Choose an inner idea and words',
+            link: '/brand/the-words/03-inner-idea',
+          },
+          {
+            text: '4. Research the audience',
+            link: '/brand/the-words/04-audience',
+          },
+          {
+            text: '5. Define positioning',
+            link: '/brand/the-words/05-positioning',
+          },
+          {
+            text: '6. Transform into outward language',
+            link: '/brand/the-words/06-expression',
+          },
+          {
+            text: '7. Apply, test and refine',
+            link: '/brand/the-words/07-testing',
+          },
         ],
       },
       {
