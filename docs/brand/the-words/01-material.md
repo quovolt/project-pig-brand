@@ -16,7 +16,8 @@
 
 ## Sources and evidence
 
-- [生活主理人企划案](./materials/life-curator-story)
+- [生活主理人企划案](../life-curator-plan)
+- [生活主理人企划：解构与分析](./life-curator-analysis)
 
 ## Contradictions and limitations
 
