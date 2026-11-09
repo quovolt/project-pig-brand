@@ -16,7 +16,7 @@
 
 ## Sources and evidence
 
-- [STORY-2026-11-09-01 · 生活主理人品牌故事整合稿 v1](./materials/life-curator-story)：后续抽象使用的理念与经营设想素材，包含待落实能力，不是已实现服务的证明。
+- [生活主理人企划案](./materials/life-curator-story)
 
 ## Contradictions and limitations
 
