@@ -49,6 +49,10 @@ export default defineConfig({
             link: '/brand/the-words/01-material',
           },
           {
+            text: '素材 · 生活主理人故事',
+            link: '/brand/the-words/materials/life-curator-story',
+          },
+          {
             text: '2. Abstract the material',
             link: '/brand/the-words/02-abstraction',
           },
