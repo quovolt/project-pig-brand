@@ -8,7 +8,7 @@ This is the working flowchart developed in our brand-words discussion on 6 Novem
 
 ![Brand-words workflow: prepare material, abstract meaning, choose an inner idea, research the audience, define positioning, transform language, apply it, and test and refine.](./brand-words-workflow.svg)
 
-[Open the full-size flowchart](./brand-words-workflow.svg)
+<a :href="flowchartUrl">Open the full-size flowchart</a>
 
 ## Read the flow
 
@@ -107,3 +107,7 @@ flowchart TB
 ```
 
 </details>
+
+<script setup>
+import flowchartUrl from './brand-words-workflow.svg?url'
+</script>
