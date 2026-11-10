@@ -8,6 +8,8 @@
 
 ## Source material
 
+- [生活主理人企划：解构与分析](./life-curator-analysis)
+
 ## Observations
 
 ## Possible interpretations

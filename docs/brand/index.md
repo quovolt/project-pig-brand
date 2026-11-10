@@ -16,6 +16,8 @@ As decisions are approved, document:
 
 ## Related guidance
 
+- [生活主理人企划案](./life-curator-plan)
+
 - [The Words: our workflow](./the-words/README)
 
 - [Visual identity](./visual-identity)

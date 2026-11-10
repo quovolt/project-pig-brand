@@ -36,6 +36,7 @@ export default defineConfig({
         text: 'Brand',
         items: [
           { text: 'Overview', link: '/brand/' },
+          { text: '生活主理人企划案', link: '/brand/life-curator-plan' },
           { text: 'Visual identity', link: '/brand/visual-identity' },
           { text: 'Voice and writing', link: '/brand/voice-and-writing' },
         ],
@@ -49,8 +50,8 @@ export default defineConfig({
             link: '/brand/the-words/01-material',
           },
           {
-            text: '素材 · 生活主理人故事',
-            link: '/brand/the-words/materials/life-curator-story',
+            text: '生活主理人 · 解构与分析',
+            link: '/brand/the-words/life-curator-analysis',
           },
           {
             text: '2. Abstract the material',
