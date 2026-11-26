@@ -1,0 +1,174 @@
+{
+  "source_site": "https://project-pig-b2-type-lab.sebslee.chatgpt.site",
+  "source_commit": "0b40be7012864defadc3d22ad7364f5b7c4d92ff",
+  "source_version": 2,
+  "recovered_at": "2026-11-17",
+  "method": "Sites source repository read-only checkout",
+  "files": [
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 106,
+      "sha256": "1dd740546ca9eeb9482350d30627516fb70ce3fcabd451c3c025918e82c9aefe"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1480,
+      "sha256": "21367a08cb2fc4b8cef91d9cbe1841ac58af3a5f9d1b8d4a05d84ae0c50a31af"
+    },
+    {
+      "path": "dist/assets/chaoxi.ttf",
+      "bytes": 5896204,
+      "sha256": "60d2628e6b63281ce66a7c35ba1592dd8a5ad6d06f0c2289625bce1f5ddc25de"
+    },
+    {
+      "path": "dist/assets/cormorant.ttf",
+      "bytes": 774336,
+      "sha256": "ef458bd4d607b2a311912d0b4fa4c38fc06a99b47136b4e248f52657acda2164"
+    },
+    {
+      "path": "dist/assets/fandol.otf",
+      "bytes": 4947904,
+      "sha256": "a3820003227d4abe31fe28b493200d94a849ccfd078b50a019264f70353020b0"
+    },
+    {
+      "path": "dist/assets/instrument.ttf",
+      "bytes": 70012,
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88"
+    },
+    {
+      "path": "dist/assets/steam.png",
+      "bytes": 2851289,
+      "sha256": "8376653772cd23321681ab7a5b8a343fd3e3470ea7f8b636da27e32949fc9777"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 4447,
+      "sha256": "c2aae59df8f825b90ea7242e13aaa5da7c0e34c8e07f26baf4fc867db7db6be2"
+    },
+    {
+      "path": "dist/lab.css",
+      "bytes": 3216,
+      "sha256": "91f6705394188b5e7b3450140ec25c6f8a5dc918f41708979e363d2ab89507ea"
+    },
+    {
+      "path": "dist/lab.js",
+      "bytes": 1229,
+      "sha256": "4173a30f2799cd60c00019866340a289e655078e72316e071e999ef5e896a576"
+    },
+    {
+      "path": "dist/licenses/COPYING",
+      "bytes": 35737,
+      "sha256": "853b586f0d520493390e571431afaf36a5fbb27dcfd239338a7ee9b0505cb004"
+    },
+    {
+      "path": "dist/licenses/Fandol-README.txt",
+      "bytes": 645,
+      "sha256": "32537e063f4c7d4aebf016d5c8279cbce13f34fc8970f24b2578a3c04d0f8ca6"
+    },
+    {
+      "path": "dist/licenses/chaoxi-OFL.txt",
+      "bytes": 4302,
+      "sha256": "e564f06d018e7b95bc3594c96a17f1d41865af4038c375e7aa974dd69df38602"
+    },
+    {
+      "path": "dist/licenses/cormorantgaramond-OFL.txt",
+      "bytes": 4387,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
+    {
+      "path": "dist/licenses/instrumentserif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "path": "dist/scenarios/assets/chaoxi.ttf",
+      "bytes": 5896204,
+      "sha256": "60d2628e6b63281ce66a7c35ba1592dd8a5ad6d06f0c2289625bce1f5ddc25de"
+    },
+    {
+      "path": "dist/scenarios/assets/cormorant.ttf",
+      "bytes": 774336,
+      "sha256": "ef458bd4d607b2a311912d0b4fa4c38fc06a99b47136b4e248f52657acda2164"
+    },
+    {
+      "path": "dist/scenarios/assets/fandol.otf",
+      "bytes": 4947904,
+      "sha256": "a3820003227d4abe31fe28b493200d94a849ccfd078b50a019264f70353020b0"
+    },
+    {
+      "path": "dist/scenarios/assets/growth.png",
+      "bytes": 3327325,
+      "sha256": "20ad2d5072f97bf46fdf7c1d384d99d2751b40e276048f6f0ea46cf524ae6391"
+    },
+    {
+      "path": "dist/scenarios/assets/instrument.ttf",
+      "bytes": 70012,
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88"
+    },
+    {
+      "path": "dist/scenarios/assets/steam.png",
+      "bytes": 2851289,
+      "sha256": "8376653772cd23321681ab7a5b8a343fd3e3470ea7f8b636da27e32949fc9777"
+    },
+    {
+      "path": "dist/scenarios/campaign.html",
+      "bytes": 1221,
+      "sha256": "eadc2f41b0052a77377863d5f9124b7c067b45d0335eff4d44b467624e877110"
+    },
+    {
+      "path": "dist/scenarios/index.html",
+      "bytes": 1088,
+      "sha256": "37f336be2f5b832c9fda0ecfcd06fbeed023a604b0f5ad28f6dcf57007df485c"
+    },
+    {
+      "path": "dist/scenarios/licenses/COPYING",
+      "bytes": 35737,
+      "sha256": "853b586f0d520493390e571431afaf36a5fbb27dcfd239338a7ee9b0505cb004"
+    },
+    {
+      "path": "dist/scenarios/licenses/Fandol-README.txt",
+      "bytes": 645,
+      "sha256": "32537e063f4c7d4aebf016d5c8279cbce13f34fc8970f24b2578a3c04d0f8ca6"
+    },
+    {
+      "path": "dist/scenarios/licenses/chaoxi-OFL.txt",
+      "bytes": 4302,
+      "sha256": "e564f06d018e7b95bc3594c96a17f1d41865af4038c375e7aa974dd69df38602"
+    },
+    {
+      "path": "dist/scenarios/licenses/cormorantgaramond-OFL.txt",
+      "bytes": 4387,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
+    {
+      "path": "dist/scenarios/licenses/instrumentserif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "path": "dist/scenarios/product.html",
+      "bytes": 2306,
+      "sha256": "63957e933b5d6f2b316e9759ebf9ec3043cd83ec52c00694e3fc0cce62ec5e86"
+    },
+    {
+      "path": "dist/scenarios/style.css",
+      "bytes": 2953,
+      "sha256": "b8ff191d11e2c252c8a4c18901822b20f2cb6c0c36487536d511f170cdf73761"
+    },
+    {
+      "path": "dist/specimen.css",
+      "bytes": 2769,
+      "sha256": "4aa3fc5e988cfab73836f2df4f286a665acd5bc5d26834db088a5536d95ca4e5"
+    },
+    {
+      "path": "dist/specimen.html",
+      "bytes": 2118,
+      "sha256": "bc3d977a24ad793575d38d19414d5fa8af3ece94f8d6fbf94f1b51289f9d87c8"
+    },
+    {
+      "path": "dist/specimen.js",
+      "bytes": 968,
+      "sha256": "a3f422f62705ae7114b026feb4553368a811d65718095bd63fe16a030c47ef86"
+    }
+  ]
+}

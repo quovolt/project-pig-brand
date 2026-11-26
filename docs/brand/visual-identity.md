@@ -1,15 +1,9 @@
-# Visual identity
+# 视觉表达
 
-::: info Awaiting content
-No logo, color palette, typography, or visual rules have been added. The site's default VitePress theme is a documentation interface, not an approved brand direction.
-:::
+**已有原型，没有生产规范。** 识别不等于图好看。先在去色、单色和实际尺寸里查主体、姿态与信息层级，再让色彩、肌理和明暗承担不同任务。
 
-## What belongs here
+- 视觉方向：金黄与橙红，有秩序的生命力；保留能认得的元素，选择性替换一处，不追求每处都写实。色值和印刷比例尚未冻结。
+- 字体与编排：宣传标题、正式说明、英文和数字分工，不能抢同一个位置。以能看清真实商品、价格与限制为准，而不是只看展陈样张。
+- 主识别：整鸟和局部标尺、纸翻花都是实验，不是使用版本。比较完整姿态与首感后再构造，先删掉装饰检验主体能否成立。
 
-- Approved logo variants and usage rules.
-- Color values, roles, and accessible combinations.
-- Typography and type hierarchy.
-- Iconography, illustration, and photography guidance.
-- Examples of correct and incorrect application.
-
-Link approved source files from the [asset library](../assets/) rather than duplicating them across pages.
+见[生活与气质](./narrative/lifestyle)、[B2 概念图与字体原件](./system/b2/assets)、[当前基线](./system/baseline)和[资产保留清单](./system/retention)。

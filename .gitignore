@@ -7,3 +7,6 @@ docs/.vitepress/dist/
 .env.*
 !.env.example
 npm-debug.log*
+
+# Internal working sources: do not include in public Git or Pages.
+/.brand-workbench/

@@ -1,25 +1,24 @@
-# Brand overview
+# 一顿还没写完的晚饭
 
-::: info Awaiting content
-This page is a placeholder. No brand positioning, principles, or audience definitions have been established by this scaffold.
-:::
+![热气的艺术替换：可辨认的烹饪动作之上，金黄与橙红的暖色层自由展开](/b2/concepts/b2-steam-substitution-v1.png)
 
-## What belongs here
+忙完一整天，最让人松口气的，往往是晚上七点半那点彻底归自己的时间——不用回消息，也不用向谁交代。
 
-As decisions are approved, document:
+泡一杯手冲、拼一盒豆子，或者给自己做顿饭，其实都是同一回事：几点开始、做到哪一步停、临时想换个花样，全由自己说了算。
 
-- The brand's purpose and positioning.
-- The audiences it serves.
-- The principles that guide its expression.
-- The relationship between the brand, product, and organization names.
-- Links to decision sources and related research.
+可动念头很容易，最败兴的是开火前那堆琐事。下班路过菜场，常买的那块肉早就空了；换个部位还得现搜做法、算时间、凑规则——一通折腾下来，做饭的兴致先凉了一半，最后草草点份外卖了事。
 
-## Related guidance
+Project Pig 就想把这堆费神的事接过去。我们从买肉这一步做起，把食材清清爽爽备在你手边；至于今晚怎么吃、跟谁吃、要不要换种做法，全听你的。
 
-- [生活主理人企划案](./life-curator-plan)
+有时锅刚热，本来只想一个人随便煎两片，手机亮了一下，朋友发来一句：「等我，给我留一口锅边的。」听了这句，你愿意多等二十分钟，临时添双筷子；也可以不等，趁热先吃自己那份。
 
-- [The Words: our workflow](./the-words/README)
+食材可以提前备好，这顿饭不必提前写完。
 
-- [Visual identity](./visual-identity)
-- [Voice and writing](./voice-and-writing)
-- [Asset library](../assets/)
+**生活，向未定之处生长。**  
+我们认真准备，让生活尽情发生。
+
+---
+
+**往下走一步**
+
+[生活主理人与品牌气质](./narrative/lifestyle) · [看不见的准备](./narrative/craft) · [这套叙事怎么编排（藏锐路径）](./narrative/paradigm)

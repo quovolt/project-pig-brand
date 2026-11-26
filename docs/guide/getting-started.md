@@ -4,7 +4,7 @@ This repository is the dedicated home for Project Pig brand documentation. It us
 
 ## Current status
 
-The site structure is ready for content. The brand pages are clearly marked placeholders, not approved guidance. A GitHub Pages workflow is prepared but disabled until the hosting audience and access settings are approved.
+Read the [brand system](../brand/system/) and [current baseline](../brand/system/baseline) before working on a new round. Working baselines and examples are not approved public guidance. A GitHub Pages workflow is prepared but disabled until the hosting audience and access settings are approved.
 
 ## Run locally
 
@@ -46,4 +46,4 @@ DOCS_BASE=/project-pig-brand/ npm run docs:build
 DOCS_BASE=/project-pig-brand/ npm run docs:preview
 ```
 
-Static output is generated in `docs/.vitepress/dist/`. The Pages workflow uses the configured site URL to select its base path automatically. It runs only on `main` after the repository variable `PAGES_DEPLOYMENT_ENABLED` is set to `true`. See the [repository README](https://github.com/quovolt/project-pig-brand#github-pages-and-privacy) for the approval and activation checklist. A private GitHub repository and the site's `noindex` tag do not make a deployed website private.
+Static output is generated in `docs/.vitepress/dist/`. The Pages workflow uses the configured site URL to select its base path automatically. It runs only on `main` after the repository variable `PAGES_DEPLOYMENT_ENABLED` is set to `true`. See the [repository README](https://github.com/SebsPresso/project-pig-brand#github-pages-and-privacy) for the approval and activation checklist. A private GitHub repository and the site's `noindex` tag do not make a deployed website private.

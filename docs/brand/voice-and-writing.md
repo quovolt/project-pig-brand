@@ -1,15 +1,9 @@
-# Voice and writing
+# 语言与角色
 
-::: info Awaiting content
-No voice, tone, naming, or messaging rules have been defined by this scaffold.
-:::
+需要时靠得住，平时不抢戏。该说明责任和下一步时直说；做内容时可以大胆激发想象，但绝不替人规定什么叫好生活。
 
-## What belongs here
+- **理念与故事**：靠具体画面、转折和留白让人自己产生共鸣，不把卖点一股脑倒出来。故事成立不自动等于品牌名成立。
+- **商品与服务**：把已知事实、条件和真能做的动作摆清楚。不拿抒情盖住限制，也不把回应变化写成无条件兜底。
+- **命名**：目前没有获选主品牌名；裸听、可复述、归属、误读与实际语境须分别审查。后续对外使用另查权利。
 
-- Voice principles and how tone changes by context.
-- Approved naming and terminology.
-- Product messaging and descriptions.
-- Writing conventions and concrete examples.
-- Guidance for interface copy, support, and announcements.
-
-When adding examples, make clear whether they are approved copy or a proposal for review.
+想看对外叙事怎么逐层展开，读[藏锐路径](./narrative/paradigm)；想看这些判断是否经得起推敲，读 [B1 的推导与取舍](./system/b1/derivation)和 [B2 的试稿记录](./system/b2/replay)。

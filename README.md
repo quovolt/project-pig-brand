@@ -2,7 +2,7 @@
 
 The dedicated documentation repository for Project Pig's brand, built with [VitePress](https://vitepress.dev/).
 
-This is a documentation foundation. Brand positioning, identity, voice, and assets remain placeholders until approved content is added. The default VitePress styling is not an approved brand identity.
+Documentation is organized into two complementary parts: [藏锐路径（品牌叙事与信息披露范式）](docs/brand/narrative/paradigm.md) starting from [the brand story](docs/brand/index.md), and [品牌工程骨架（B1–B4 有序推导体系）](docs/brand/system/index.md) for the current baseline and decision gates. This is work in progress, not final brand guidance. The VitePress styling is not the brand identity.
 
 ## Requirements
 
@@ -37,8 +37,8 @@ docs/
   .vitepress/config.mts   Site configuration, navigation, and local search
   index.md               Documentation home
   guide/                 Setup and contribution instructions
-  brand/                 Brand documentation placeholders
-  assets/                Approved asset index placeholder
+  brand/                 Brand system and historical working records
+  assets/                Asset and retention index
 ```
 
 Read [the contribution guide](docs/guide/contributing.md) before adding guidance. CI checks pull requests and changes to `main` at both `/` and `/project-pig-brand/`. The separate Pages workflow stays disabled until publication and access are approved.
@@ -55,7 +55,7 @@ A private repository does **not** mean a private Pages site. GitHub Pages from a
 
 ### Enable deployment after approval
 
-1. Confirm the organization's plan supports Pages for this private repository and approve the site's audience. Do not make the repository public to bypass plan limits.
+1. Verify the repository and site audiences separately. For any private audience requirement, confirm the plan supports access-controlled Pages. Use only reviewed materials on a public repository or public site.
 2. In repository **Settings → Pages**, select **GitHub Actions** under **Build and deployment → Source**. For a private site, select private visibility and verify it restricts access to repository readers. Public publication requires separate approval of the documentation being exposed.
 3. Review the `github-pages` environment's deployment branch rules and restrict it to `main`. Add approval protection if the organization's plan supports it.
 4. After the workflow is merged into `main` and the access settings are verified, create the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` with value `true` under **Settings → Secrets and variables → Actions → Variables**.
@@ -65,7 +65,7 @@ The workflow does not enable Pages, change visibility, or merge a pull request. 
 
 ### Base paths and local preview
 
-The deployment reads the actual base path from `actions/configure-pages`, so it supports the standard project URL (`/project-pig-brand/`), custom domains, and private Pages URLs without hard-coding a public destination. The standard public URL, if explicitly approved and configured, would be `https://quovolt.github.io/project-pig-brand/`; this is a target, not a verified live site.
+The deployment reads the actual base path from `actions/configure-pages`, so it supports the standard project URL (`/project-pig-brand/`), custom domains, and private Pages URLs without hard-coding a public destination. The standard public URL, if explicitly approved and configured, would be `https://sebsPresso.github.io/project-pig-brand/`; this is a target, not a verified live site.
 
 Build output is in `docs/.vitepress/dist/` and is ignored by Git. To test the standard project path locally:
 

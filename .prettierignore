@@ -2,3 +2,8 @@ node_modules/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
 package-lock.json
+
+.brand-workbench/
+
+# Recovered B2 prototypes: preserve the original files byte for byte.
+docs/public/b2/type-lab/

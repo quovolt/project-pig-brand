@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-17",
+  "method": "fontTools table inspection and SHA-256 byte comparison; no font binaries modified; coverage probe is not full language coverage.",
+  "fonts": [
+    {
+      "path": "dist/assets/chaoxi.ttf",
+      "sha256": "60d2628e6b63281ce66a7c35ba1592dd8a5ad6d06f0c2289625bce1f5ddc25de",
+      "bytes": 5896204,
+      "names": {
+        "1": "XiangcuiChaoxisong",
+        "2": "W40",
+        "4": "XiangcuiChaoxisong",
+        "5": "Version 1.000;June 27, 2024;FontCreator 14.0.0.2814 64-bit",
+        "6": "XiangcuiChaoxisong",
+        "13": null,
+        "14": null,
+        "16": null,
+        "17": null
+      },
+      "weight_class": 400,
+      "variable": false,
+      "cmap_count": 7297,
+      "coverage_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务0123456789¥￥.,:/–%kg",
+      "missing_from_probe": "¥–",
+      "gsub_features": [],
+      "upstream_verification": {
+        "path": "chaoxisong/香萃潮汐宋 W40.ttf",
+        "url": "https://raw.githubusercontent.com/Miiiller/Xiangcui-Chaoxisong/main/%E9%A6%99%E8%90%83%E6%BD%AE%E6%B1%90%E5%AE%8B%20W40.ttf",
+        "resolved_url": "https://raw.githubusercontent.com/Miiiller/Xiangcui-Chaoxisong/main/%E9%A6%99%E8%90%83%E6%BD%AE%E6%B1%90%E5%AE%8B%20W40.ttf",
+        "bytes": 5896204,
+        "sha256": "60d2628e6b63281ce66a7c35ba1592dd8a5ad6d06f0c2289625bce1f5ddc25de",
+        "retrieved_utc": "2026-11-17T06:41:51.919700+00:00",
+        "byte_identical": true
+      }
+    },
+    {
+      "path": "dist/assets/fandol.otf",
+      "sha256": "a3820003227d4abe31fe28b493200d94a849ccfd078b50a019264f70353020b0",
+      "bytes": 4947904,
+      "names": {
+        "1": "FandolSong",
+        "2": "Regular",
+        "4": "FandolSong",
+        "5": "Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT",
+        "6": "FandolSong-Regular",
+        "13": null,
+        "14": "http://www.gnu.org/licenses/licenses.html",
+        "16": null,
+        "17": null
+      },
+      "weight_class": 400,
+      "variable": false,
+      "cmap_count": 10287,
+      "coverage_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务0123456789¥￥.,:/–%kg",
+      "missing_from_probe": "",
+      "gsub_features": [],
+      "upstream_verification": {
+        "path": "fandol/FandolSong-Regular.otf",
+        "url": "https://mirrors.ibiblio.org/CTAN/fonts/fandol/FandolSong-Regular.otf",
+        "resolved_url": "https://mirrors.ibiblio.org/CTAN/fonts/fandol/FandolSong-Regular.otf",
+        "bytes": 4947904,
+        "sha256": "a3820003227d4abe31fe28b493200d94a849ccfd078b50a019264f70353020b0",
+        "retrieved_utc": "2026-11-17T06:42:01.792081+00:00",
+        "byte_identical": true
+      }
+    },
+    {
+      "path": "dist/assets/instrument.ttf",
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88",
+      "bytes": 70012,
+      "names": {
+        "1": "Instrument Serif",
+        "2": "Regular",
+        "4": "Instrument Serif Regular",
+        "5": "Version 1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+        "6": "InstrumentSerif-Regular",
+        "13": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "14": "https://scripts.sil.org/OFL",
+        "16": null,
+        "17": null
+      },
+      "weight_class": 400,
+      "variable": false,
+      "cmap_count": 333,
+      "coverage_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务0123456789¥￥.,:/–%kg",
+      "missing_from_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务￥",
+      "gsub_features": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "liga",
+        "locl",
+        "ordn",
+        "ss01"
+      ],
+      "upstream_verification": {
+        "path": "instrument-serif/InstrumentSerif-Regular.ttf",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/instrumentserif/InstrumentSerif-Regular.ttf",
+        "resolved_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/instrumentserif/InstrumentSerif-Regular.ttf",
+        "bytes": 70012,
+        "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88",
+        "retrieved_utc": "2026-11-17T06:41:51.592561+00:00",
+        "byte_identical": true
+      }
+    },
+    {
+      "path": "dist/assets/cormorant.ttf",
+      "sha256": "ef458bd4d607b2a311912d0b4fa4c38fc06a99b47136b4e248f52657acda2164",
+      "bytes": 774336,
+      "names": {
+        "1": "Cormorant Garamond Light",
+        "2": "Regular",
+        "4": "Cormorant Garamond Light",
+        "5": "Version 4.001",
+        "6": "CormorantGaramond-Light",
+        "13": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+        "14": "https://openfontlicense.org",
+        "16": "Cormorant Garamond",
+        "17": "Light"
+      },
+      "weight_class": 500,
+      "variable": false,
+      "cmap_count": 974,
+      "coverage_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务0123456789¥￥.,:/–%kg",
+      "missing_from_probe": "生活，向未定之处生长。鲜猪前腿肉关于生活主理人品牌商品服务￥",
+      "gsub_features": [
+        "aalt",
+        "c2sc",
+        "calt",
+        "case",
+        "ccmp",
+        "cv01",
+        "cv02",
+        "cv05",
+        "cv06",
+        "cv07",
+        "dlig",
+        "dnom",
+        "frac",
+        "hlig",
+        "liga",
+        "lnum",
+        "locl",
+        "numr",
+        "onum",
+        "ordn",
+        "sinf",
+        "smcp",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss09",
+        "ss10",
+        "ss12",
+        "ss13",
+        "ss14",
+        "ss15",
+        "subs",
+        "sups",
+        "tnum",
+        "zero"
+      ],
+      "upstream_verification": {
+        "status": "Recovered original site binary. Not byte-matched to upstream. Static family Cormorant Garamond, weight_class 500; legacy name retains Light. Do not rename or replace automatically."
+      }
+    }
+  ]
+}
